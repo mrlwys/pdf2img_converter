@@ -1,0 +1,13 @@
+# Ignorar a pasta Poppler (binários não precisam ser versionados)
+poppler/
+
+# Ignorar imagens convertidas
+images/
+
+# Ignorar ambiente virtual (se estiver usando)
+venv/
+
+# Ignorar arquivos temporários do sistema
+*.log
+.DS_Store
+Thumbs.db
